@@ -1,0 +1,16 @@
+h2.work-title {
+    text-align: center
+}
+
+@media screen and (min-width: 769px){
+    .main-teaser-content {
+        /* width: 500px;  */
+    }
+}
+
+.main-teaser-content {
+    margin-top:5em;
+    margin-bottom:2em;
+    justify-content: center;
+    width: 1000px;
+}
